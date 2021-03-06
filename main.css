@@ -4,7 +4,6 @@ overflow-x: hidden;
 }
 #img{
     
-    transform: rotate(90deg);
     height: 150px;
     width: 140px;
 }
